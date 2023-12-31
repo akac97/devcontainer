@@ -1,4 +1,5 @@
 {
   "name": "archlinux",
-  "build": { "dockerfile": "Dockerfile" }
+  "build": { "dockerfile": "Dockerfile" },
+  "postCreateCommand": "conda activate pyenv"
 }
