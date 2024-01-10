@@ -1,1 +1,1 @@
-FROM ghcr.io/akac97/archlinux-builder:main
+FROM ghcr.io/akac97/codespace-alpinelinux:main
